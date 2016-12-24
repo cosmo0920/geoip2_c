@@ -28,4 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake-compiler"
   spec.add_development_dependency "rake-compiler-dock", "~> 0.5.1"
   spec.add_development_dependency "test-unit", "~> 3.2"
+  spec.add_development_dependency "pkg-config", "~> 1.1"
 end
